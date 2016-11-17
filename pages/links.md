@@ -8,9 +8,9 @@ menu: 链接
 permalink: /links/
 ---
 
-> God made relatives. Thank God we can choose our friends.
+> 收录一些不错的网站。
 
-* [Connie酱](http://biedan.org)
-* [只宁静不致远](http://zxning.github.io/)
-* [Blog Something](http://chenxiaoyoyo.github.io)
+* [干货集中营](http://gank.io/)
+* [阮一峰总结的全栈工程师培训手册 ](https://github.com/ruanyf/jstraining)
+* [极客导航](http://www.jikedaohang.com/)
 * [码志](http://mazhuang.org)
