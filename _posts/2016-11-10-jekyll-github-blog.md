@@ -284,7 +284,7 @@ Configuration file: D:/GarryBlog/garry2016.github.io/_config.yml
 jekyll 3.3.0 | Error:  SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed
 ```
 
-SSL链接问题，解决方法是点击[这里](D:\GarryBlog\garry2016.github.io>set SSL_CERT_FILE=d:\myblog\cacert.pem)下载一个`cacert.pem`文件保存到指定目录。然后在命令行中执行设置SSL文件的路径就可以了。
+SSL链接问题，解决方法是点击[这里](http://ogq1o21zt.bkt.clouddn.com/cacert.pem)下载一个`cacert.pem`文件保存到指定目录。然后在命令行中执行设置SSL文件的路径就可以了。
 
 ```
 D:\GarryBlog\garry2016.github.io>set SSL_CERT_FILE=d:\myblog\cacert.pem
